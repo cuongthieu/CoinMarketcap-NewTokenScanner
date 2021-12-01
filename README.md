@@ -1,0 +1,1 @@
+# CoinMarketcap-NewTokenScanner
